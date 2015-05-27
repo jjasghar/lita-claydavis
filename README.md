@@ -26,4 +26,10 @@ user1> claydavis youtube
 bot> https://youtu.be/1-ykugiRKyM
 user1> claydavis gif
 bot> http://i.imgur.com/nv9hR03.gif
+user1> claydavis
+bot> http://www.animoller.com/old-blog/images/2010/09/sheeeet.gif
+user1> (claydavis)
+bot> http://www.animoller.com/old-blog/images/2010/09/sheeeet.gif
+user1> sheeeeeeeeeit
+bot> http://i.imgur.com/nv9hR03.gif
 ```
